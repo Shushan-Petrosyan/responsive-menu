@@ -1,0 +1,67 @@
+header {
+   width: 768px;
+}
+
+.menu-header {
+    height: 100px;
+}
+
+.header-icons {
+    width: 40px;
+    height: 40px;
+    float: left;
+    padding: 15px;
+}
+
+
+
+.header-icons2 {
+    width: 97px;
+    height: 51px;
+}
+
+
+
+.content-text {
+
+    margin-left: 20px;
+    color:#1b1c21 ;
+    line-height: 30px;
+}
+
+.content-text1 {
+    border-left: 5px solid aqua;
+    padding-left:15px;
+    color: #7e7e82;
+    margin-left: -3px;
+}
+
+.main-footer {
+  margin-top: 100px;
+  margin-left: 10px;
+}
+
+.main-footer__icons {
+    width: 40px;
+    height: 40px;
+   padding: 10px;
+}
+
+.mail {
+   font-size: 16px;
+   color: #1b1c21;
+}
+
+.phone-number {
+   font-size: 24px;
+   color: #1b1c21;
+}
+
+.languge-russian {
+    color: #7e7e82;
+}
+
+.languges {
+   font-size: 16px;
+   color: #1b1c21;
+}
