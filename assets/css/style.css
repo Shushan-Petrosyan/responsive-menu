@@ -22,7 +22,9 @@ header {
     height: 51px;
 }
 
-
+.search-icon {
+    margin-left: 40px;
+}
 
 .content-text {
 
@@ -33,14 +35,12 @@ header {
 
 .content-text:hover {
     color: #7e7e82;
+    border-left: 4px solid aqua;
+    padding: 5px;
 }
 
-/*.content-text1 {
-    border-left: 5px solid aqua;
-    padding-left:15px;
-    color: #7e7e82;
-    margin-left: -3px;
-}*/
+
+
 
 .main-footer {
   margin-top: 100px;
