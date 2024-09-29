@@ -1,5 +1,8 @@
 header {
-   width: 768px;
+ /*  width: 768px; */
+ width: 320px;
+ border: 3px solid #ffffff;
+
 }
 
 .menu-header {
@@ -29,12 +32,16 @@ header {
     line-height: 30px;
 }
 
-.content-text1 {
+.content-text:active {
+    color: #7e7e82;
+}
+
+/*.content-text1 {
     border-left: 5px solid aqua;
     padding-left:15px;
     color: #7e7e82;
     margin-left: -3px;
-}
+}*/
 
 .main-footer {
   margin-top: 100px;
