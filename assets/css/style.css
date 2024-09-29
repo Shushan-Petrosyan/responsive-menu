@@ -1,8 +1,7 @@
 header {
- /*  width: 768px; */
- width: 320px;
- border: 3px solid #ffffff;
-
+      width: 320px;
+    overflow: hidden;
+    box-shadow: 0 15px 30px 10px #0E185033;
 }
 
 .menu-header {
@@ -32,7 +31,7 @@ header {
     line-height: 30px;
 }
 
-.content-text:active {
+.content-text:hover {
     color: #7e7e82;
 }
 
